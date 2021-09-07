@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s1.cloudstorage.com.vn:9021
+  accessKey: test
+  secretKey: MSBjhTwZppEtnXWm5CGcSART8dob3redIfaynz0R
+  bucketName: thangdv
